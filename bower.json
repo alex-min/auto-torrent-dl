@@ -1,0 +1,13 @@
+{
+  "name": "Intranet",
+  "description": "The main entry point for all users to access bboxx services",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BBOXX/Intranet.git",
+  "private": true,
+  "directory":"app/components",
+  "dependencies": {
+    "bootstrap":"3.1.x",
+    "jquery":"1.9.x",
+    "font-awesome":"4.0.x",
+  }
+}
